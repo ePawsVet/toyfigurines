@@ -1,0 +1,399 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Pau",
+      "lastname": "Ballesteros",
+      "username": "Paulene",
+      "email": "paulene@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "id": 51
+    },
+    {
+      "id": 52
+    },
+    {
+      "id": 53
+    },
+    {
+      "id": 54
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57
+    },
+    {
+      "id": 58
+    },
+    {
+      "id": 59
+    },
+    {
+      "id": 60
+    },
+    {
+      "id": 61
+    },
+    {
+      "id": 62
+    },
+    {
+      "id": 63
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 65
+    },
+    {
+      "id": 66
+    },
+    {
+      "id": 67
+    },
+    {
+      "id": 68
+    },
+    {
+      "id": 69
+    },
+    {
+      "id": 70
+    },
+    {
+      "id": 71
+    },
+    {
+      "id": 72
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 73
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 74
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 75
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 76
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 77
+    },
+    {
+      "firstname": "as",
+      "lastname": "as",
+      "username": "as",
+      "email": "as@gmail.com",
+      "password": "123456",
+      "id": 78
+    }
+  ],
+  "toyfigurines": [
+    {
+      "id": 1,
+      "key": 1,
+      "name": "some name",
+      "description": "some description of toy",
+      "productiondate": "march 26, 1998",
+      "publishdate": "march 26, 1998",
+      "owner": "pau",
+      "serialnumber": ""
+    },
+    {
+      "name": "Toy 1",
+      "description": "toy description",
+      "productiondate": "2022-07-12T20:56:54.371Z",
+      "id": 2
+    },
+    {
+      "name": "s",
+      "description": "s",
+      "productiondate": "2022-07-18T21:01:17.171Z",
+      "id": 3
+    },
+    {
+      "serialnumber": "",
+      "name": "test",
+      "description": "test description",
+      "productiondate": "2022-07-05T21:14:23.216Z",
+      "publishdate": "2022-07-18T21:12:48.567Z",
+      "id": 4
+    },
+    {
+      "serialnumber": "4850a299-5e70-4303-8f6a-cc862e122b63",
+      "name": "as",
+      "description": "as",
+      "productiondate": "2022-07-19T21:14:23.216Z",
+      "publishdate": "2022-07-18T21:12:48.567Z",
+      "id": 5
+    },
+    {
+      "serialnumber": {
+        "unique_id": "30501565-62ea-4c1e-bf18-b91c023d1e7e"
+      },
+      "name": "",
+      "description": "",
+      "productiondate": "2022-07-04T21:14:23.216Z",
+      "publishdate": "2022-07-18T21:12:48.567Z",
+      "id": 6
+    },
+    {
+      "serialnumber": {
+        "unique_id": "34541712-25a0-4d3c-8ee1-2ed7fc95217b"
+      },
+      "name": "s",
+      "description": "s",
+      "productiondate": "2022-07-12T21:14:23.216Z",
+      "publishdate": "2022-07-18T21:12:48.567Z",
+      "id": 7
+    },
+    {
+      "serialnumber": "",
+      "name": "as",
+      "description": "as",
+      "productiondate": "2022-07-18T21:17:56.995Z",
+      "publishdate": "2022-07-18T21:17:55.613Z",
+      "id": 8
+    },
+    {
+      "serialnumber": {
+        "unique_id": "2194c49e-4d8e-4a0a-89a0-ed41ea4a7d85"
+      },
+      "name": "as",
+      "description": "as",
+      "productiondate": "2022-07-18T21:18:26.775Z",
+      "publishdate": "2022-07-18T21:17:55.613Z",
+      "id": 9
+    },
+    {
+      "serialnumber": "",
+      "name": "sd",
+      "description": "sd",
+      "productiondate": "2022-07-18T21:19:17.890Z",
+      "publishdate": "2022-07-18T21:19:16.519Z",
+      "id": 10
+    },
+    {
+      "serialnumber": "e654e99a-60ee-4888-9131-51bc71102769",
+      "name": "ss",
+      "description": "ss",
+      "productiondate": "2022-07-18T21:21:39.921Z",
+      "publishdate": "2022-07-18T21:19:16.519Z",
+      "id": 11
+    },
+    {
+      "serialnumber": "",
+      "name": "ll",
+      "description": "jj",
+      "productiondate": "2022-07-18T21:23:43.157Z",
+      "publishdate": "2022-07-18T21:23:11.621Z",
+      "id": 12
+    },
+    {
+      "serialnumber": "de364601-2dc2-4df4-a79d-d8c40d4b2d18",
+      "name": "ll",
+      "description": "ll",
+      "productiondate": "2022-07-18T21:24:09.570Z",
+      "publishdate": "2022-07-18T21:23:11.621Z",
+      "id": 13
+    },
+    {
+      "serialnumber": "f420b215-8bed-467d-8719-6f343d76ae55",
+      "name": "jj",
+      "description": "gh",
+      "productiondate": "2022-07-18T21:24:17.494Z",
+      "publishdate": "2022-07-18T21:23:11.621Z",
+      "id": 14
+    },
+    {
+      "serialnumber": "4dafcf1d-88f4-4f00-9d9c-6461c9d96d82",
+      "name": "gg",
+      "description": "fgd",
+      "productiondate": "2022-07-18T21:24:25.195Z",
+      "publishdate": "2022-07-18T21:23:11.621Z",
+      "id": 15
+    }
+  ]
+}
