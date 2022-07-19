@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { Link, useHistory } from 'react-router-dom'
 import { useState } from 'react';
 
 
@@ -9,6 +9,8 @@ const SignUp = ({ onAdd }) => {
     const [username, setUsername] = useState('')
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')
+
+    
     
   
     const onSubmit = (e) => {

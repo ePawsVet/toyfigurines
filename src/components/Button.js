@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'
 
-const Button = ({ text, color, className,onClick}) => {
+const ButtonForm = ({ text, color, className,onClick}) => {
   return (
     <button
     className={className}
@@ -12,13 +12,13 @@ const Button = ({ text, color, className,onClick}) => {
   )
 }
 
-Button.defaultProps = {
+ButtonForm.defaultProps = {
     color : 'gray'
 }
 
-Button.propTypes = {
+ButtonForm.propTypes = {
     color   : PropTypes.string,
     text    : PropTypes.string,
     onClick : PropTypes.func
 }
-export default Button
+export default ButtonForm

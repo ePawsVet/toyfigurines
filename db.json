@@ -268,132 +268,57 @@
       "email": "as@gmail.com",
       "password": "123456",
       "id": 78
+    },
+    {
+      "firstname": "pau",
+      "lastname": "pau",
+      "username": "pau",
+      "email": "pau@gmail.com",
+      "password": "123456",
+      "id": 79
     }
   ],
   "toyfigurines": [
-    {
-      "id": 1,
-      "key": 1,
-      "name": "some name",
-      "description": "some description of toy",
-      "productiondate": "march 26, 1998",
-      "publishdate": "march 26, 1998",
-      "owner": "pau",
-      "serialnumber": ""
-    },
-    {
-      "name": "Toy 1",
-      "description": "toy description",
-      "productiondate": "2022-07-12T20:56:54.371Z",
-      "id": 2
-    },
-    {
-      "name": "s",
-      "description": "s",
-      "productiondate": "2022-07-18T21:01:17.171Z",
-      "id": 3
-    },
-    {
-      "serialnumber": "",
-      "name": "test",
-      "description": "test description",
-      "productiondate": "2022-07-05T21:14:23.216Z",
-      "publishdate": "2022-07-18T21:12:48.567Z",
-      "id": 4
-    },
-    {
-      "serialnumber": "4850a299-5e70-4303-8f6a-cc862e122b63",
-      "name": "as",
-      "description": "as",
-      "productiondate": "2022-07-19T21:14:23.216Z",
-      "publishdate": "2022-07-18T21:12:48.567Z",
-      "id": 5
-    },
-    {
-      "serialnumber": {
-        "unique_id": "30501565-62ea-4c1e-bf18-b91c023d1e7e"
-      },
-      "name": "",
-      "description": "",
-      "productiondate": "2022-07-04T21:14:23.216Z",
-      "publishdate": "2022-07-18T21:12:48.567Z",
-      "id": 6
-    },
-    {
-      "serialnumber": {
-        "unique_id": "34541712-25a0-4d3c-8ee1-2ed7fc95217b"
-      },
-      "name": "s",
-      "description": "s",
-      "productiondate": "2022-07-12T21:14:23.216Z",
-      "publishdate": "2022-07-18T21:12:48.567Z",
-      "id": 7
-    },
-    {
-      "serialnumber": "",
-      "name": "as",
-      "description": "as",
-      "productiondate": "2022-07-18T21:17:56.995Z",
-      "publishdate": "2022-07-18T21:17:55.613Z",
-      "id": 8
-    },
-    {
-      "serialnumber": {
-        "unique_id": "2194c49e-4d8e-4a0a-89a0-ed41ea4a7d85"
-      },
-      "name": "as",
-      "description": "as",
-      "productiondate": "2022-07-18T21:18:26.775Z",
-      "publishdate": "2022-07-18T21:17:55.613Z",
-      "id": 9
-    },
-    {
-      "serialnumber": "",
-      "name": "sd",
-      "description": "sd",
-      "productiondate": "2022-07-18T21:19:17.890Z",
-      "publishdate": "2022-07-18T21:19:16.519Z",
-      "id": 10
-    },
-    {
-      "serialnumber": "e654e99a-60ee-4888-9131-51bc71102769",
-      "name": "ss",
-      "description": "ss",
-      "productiondate": "2022-07-18T21:21:39.921Z",
-      "publishdate": "2022-07-18T21:19:16.519Z",
-      "id": 11
-    },
-    {
-      "serialnumber": "",
-      "name": "ll",
-      "description": "jj",
-      "productiondate": "2022-07-18T21:23:43.157Z",
-      "publishdate": "2022-07-18T21:23:11.621Z",
-      "id": 12
-    },
-    {
-      "serialnumber": "de364601-2dc2-4df4-a79d-d8c40d4b2d18",
-      "name": "ll",
-      "description": "ll",
-      "productiondate": "2022-07-18T21:24:09.570Z",
-      "publishdate": "2022-07-18T21:23:11.621Z",
-      "id": 13
-    },
-    {
-      "serialnumber": "f420b215-8bed-467d-8719-6f343d76ae55",
-      "name": "jj",
-      "description": "gh",
-      "productiondate": "2022-07-18T21:24:17.494Z",
-      "publishdate": "2022-07-18T21:23:11.621Z",
-      "id": 14
-    },
     {
       "serialnumber": "4dafcf1d-88f4-4f00-9d9c-6461c9d96d82",
       "name": "gg",
       "description": "fgd",
       "productiondate": "2022-07-18T21:24:25.195Z",
       "publishdate": "2022-07-18T21:23:11.621Z",
-      "id": 15
+      "id": 15,
+      "key": 15
+    },
+    {
+      "serialnumber": "6f37a732-5b13-4191-8a16-636740cb4630",
+      "name": "sas",
+      "description": "asda",
+      "productiondate": "2022-07-18T22:19:03.581Z",
+      "publishdate": "2022-07-18T22:15:14.842Z",
+      "id": 16
+    },
+    {
+      "serialnumber": "bb1a3d86-f4bc-4384-a995-6b5ef68b1cf2",
+      "name": "asd",
+      "description": "asd",
+      "productiondate": "2022-07-18T22:19:51.344Z",
+      "publishdate": "2022-07-18T22:15:14.842Z",
+      "id": 18
+    },
+    {
+      "serialnumber": "e82104de-cd1d-434f-8f1b-1f62d092d28b",
+      "name": "test",
+      "description": "test",
+      "productiondate": "2022-07-19T04:44:00.113Z",
+      "publishdate": "2022-07-19T04:43:13.690Z",
+      "id": 20
+    },
+    {
+      "serialnumber": "7735e5d7-26c8-4632-aec3-cfc81d5d7612",
+      "name": "test",
+      "description": "test",
+      "productiondate": "2022-07-19T06:57:28.887Z",
+      "publishdate": "2022-07-19T06:57:05.341Z",
+      "id": 22
     }
   ]
 }
